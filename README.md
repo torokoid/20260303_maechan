@@ -325,6 +325,11 @@ p.note { display: none; }
 <h2><span class="yellow">この日もあっという間に夕暮れは終了</span></h2>
 <a href="20260303_069.JPG" target="_blank"><img src="20260303_069.JPG" alt="サンプル画像" class="responsive-media"></a>
 
+<h2><span class="yellow">日没画像を動画で撮ってみました、バックに鳥達の囀りと、町内放送の声も入ってます</span></h2>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gp0dzRHm8m4?si=sr5Xb_ygXT_JpTmC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
 
 <h2><span class="yellow">月明で夜空が薄明かりでしたが、カノープスもしっかり見えました</span></h2>
 <a href="20260303_070.JPG" target="_blank"><img src="20260303_070.JPG" alt="サンプル画像" class="responsive-media"></a>
