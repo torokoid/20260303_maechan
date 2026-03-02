@@ -289,6 +289,9 @@ p.note { display: none; }
 <a href="20260303_050.JPG" target="_blank"><img src="20260303_050.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260303_051.JPG" target="_blank"><img src="20260303_051.JPG" alt="サンプル画像" class="responsive-media"></a>
 
+<h2><span class="yellow">お寺の一角にあった噴水系のオブジェが特徴的だったので動画で撮りました<br>画像クリックで動画再生します↓</span></h2>
+<a href="https://youtube.com/shorts/GQ5EyHo-W04?feature=share" target="_blank"><img src="20260303_071.png" alt="サンプル画像" class="responsive-media"></a>
+
 <h2><span class="yellow">お寺から帰って、庭のお花達を撮影しました</span></h2>
 <a href="20260303_052.JPG" target="_blank"><img src="20260303_052.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260303_053.JPG" target="_blank"><img src="20260303_053.JPG" alt="サンプル画像" class="responsive-media"></a>
